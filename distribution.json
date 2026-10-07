@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "servers": [
     {
       "id": "Legends_of_Medieval_Lite-1.20.1",
       "name": "LoM Lite",
-      "description": "LoM Lite 0.2.0 - Minecraft 1.20.1 / Forge 47.4.22",
-      "version": "0.2.0",
+      "description": "LoM Lite 0.2.1 - Minecraft 1.20.1 / Forge 47.4.22",
+      "version": "0.2.1",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "mainServer": false,
@@ -284,6 +284,17 @@
             "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/ItemPhysic_FORGE_v1.8.7_mc1.20.1.jar",
             "MD5": "63bcc8b515da26a9d325dc65beb94082",
             "path": "mods/ItemPhysic_FORGE_v1.8.7_mc1.20.1.jar"
+          }
+        },
+        {
+          "id": "jupiter-2.3.7-1.20.1-forge.jar",
+          "name": "Jupiter",
+          "type": "File",
+          "artifact": {
+            "size": 280116,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/jupiter-2.3.7-1.20.1-forge.jar",
+            "MD5": "2a222bc075b64ac569b6b0766f39276a",
+            "path": "mods/jupiter-2.3.7-1.20.1-forge.jar"
           }
         },
         {
@@ -1494,6 +1505,17 @@
             "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/jei/recipe-category-sort-order.ini",
             "MD5": "37724e015cc226eb96338f5e18d103b9",
             "path": "config/jei/recipe-category-sort-order.ini"
+          }
+        },
+        {
+          "id": "config/jupiter.json",
+          "name": "jupiter.json",
+          "type": "File",
+          "artifact": {
+            "size": 171,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/jupiter.json",
+            "MD5": "8f4bca3be8047b6a946288be8036fbae",
+            "path": "config/jupiter.json"
           }
         },
         {
