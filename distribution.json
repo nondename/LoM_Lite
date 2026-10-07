@@ -1783,6 +1783,17 @@
           }
         },
         {
+          "id": "oculus-mc1.20.1-1.8.0.jar",
+          "name": "Oculus",
+          "type": "File",
+          "artifact": {
+            "size": 2851119,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/oculus-mc1.20.1-1.8.0.jar",
+            "MD5": "1dd891634ac21591b5a692471f112572",
+            "path": "mods/oculus-mc1.20.1-1.8.0.jar"
+          }
+        },
+        {
           "id": "config/embeddium-fingerprint.json",
           "name": "embeddium-fingerprint.json",
           "type": "File",
@@ -1813,6 +1824,39 @@
             "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/embeddium-options.json",
             "MD5": "f171fe1f5dd1346995aaf5556b615a7e",
             "path": "config/embeddium-options.json"
+          }
+        },
+        {
+          "id": "config/oculus.properties",
+          "name": "oculus.properties",
+          "type": "File",
+          "artifact": {
+            "size": 279,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/oculus.properties",
+            "MD5": "7c367158ba17bd97a577085fe1ccb361",
+            "path": "config/oculus.properties"
+          }
+        },
+        {
+          "id": "shaderpacks/ComplementaryReimagined_r5.8.1.zip",
+          "name": "ComplementaryReimagined_r5.8.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 538895,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/shaderpacks/ComplementaryReimagined_r5.8.1.zip",
+            "MD5": "15b54fa92881a1c45ea2332f67d20628",
+            "path": "shaderpacks/ComplementaryReimagined_r5.8.1.zip"
+          }
+        },
+        {
+          "id": "shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt",
+          "name": "ComplementaryReimagined_r5.8.1.zip.txt",
+          "type": "File",
+          "artifact": {
+            "size": 207,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt",
+            "MD5": "47b939faafd9d76dbc01fec0e936bf93",
+            "path": "shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt"
           }
         }
       ]
