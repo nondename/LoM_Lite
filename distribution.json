@@ -1,11 +1,11 @@
 {
-  "version": "0.2.1",
+  "version": "0.2.2",
   "servers": [
     {
       "id": "Legends_of_Medieval_Lite-1.20.1",
       "name": "LoM Lite",
-      "description": "LoM Lite 0.2.1 - Minecraft 1.20.1 / Forge 47.4.22",
-      "version": "0.2.1",
+      "description": "LoM Lite 0.2.2 - Minecraft 1.20.1 / Forge 47.4.22",
+      "version": "0.2.2",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "mainServer": false,
@@ -1769,6 +1769,50 @@
             "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/waystones-common.toml",
             "MD5": "6c660dd3c39fa04f11ebaf8fb6145354",
             "path": "config/waystones-common.toml"
+          }
+        },
+        {
+          "id": "embeddium-0.3.31+mc1.20.1.jar",
+          "name": "Embeddium",
+          "type": "File",
+          "artifact": {
+            "size": 1320675,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/embeddium-0.3.31%2Bmc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7",
+            "path": "mods/embeddium-0.3.31+mc1.20.1.jar"
+          }
+        },
+        {
+          "id": "config/embeddium-fingerprint.json",
+          "name": "embeddium-fingerprint.json",
+          "type": "File",
+          "artifact": {
+            "size": 427,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/embeddium-fingerprint.json",
+            "MD5": "2c4fc4c506c93d75e33e3da5f673c2f0",
+            "path": "config/embeddium-fingerprint.json"
+          }
+        },
+        {
+          "id": "config/embeddium-mixins.properties",
+          "name": "embeddium-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 269,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/embeddium-mixins.properties",
+            "MD5": "a9176524f816153a7967217b53bb75a1",
+            "path": "config/embeddium-mixins.properties"
+          }
+        },
+        {
+          "id": "config/embeddium-options.json",
+          "name": "embeddium-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 847,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/embeddium-options.json",
+            "MD5": "f171fe1f5dd1346995aaf5556b615a7e",
+            "path": "config/embeddium-options.json"
           }
         }
       ]
