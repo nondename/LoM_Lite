@@ -1,4 +1,1756 @@
 {
-  "version": "0.1.0",
-  "files": []
+  "version": "0.2.0",
+  "servers": [
+    {
+      "id": "Legends_of_Medieval_Lite-1.20.1",
+      "name": "LoM Lite",
+      "description": "LoM Lite 0.2.0 - Minecraft 1.20.1 / Forge 47.4.22",
+      "version": "0.2.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.20.1",
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "[forge]ctov-3.4.14.jar",
+          "name": "ChoiceTheorem's Overhauled Village",
+          "type": "File",
+          "artifact": {
+            "size": 6772753,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/%5Bforge%5Dctov-3.4.14.jar",
+            "MD5": "382d0881db0828470c219dd5d0789132",
+            "path": "mods/[forge]ctov-3.4.14.jar"
+          }
+        },
+        {
+          "id": "appleskin-forge-mc1.20.1-2.5.1.jar",
+          "name": "AppleSkin",
+          "type": "File",
+          "artifact": {
+            "size": 47428,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "MD5": "dae63cea9c951dda542a4005ceef3953",
+            "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar"
+          }
+        },
+        {
+          "id": "backpacked-forge-1.20.1-3.0.0-beta.9.jar",
+          "name": "Backpacked",
+          "type": "File",
+          "artifact": {
+            "size": 599264,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/backpacked-forge-1.20.1-3.0.0-beta.9.jar",
+            "MD5": "3d77d781ce247a2cbb8a2401df5e2b39",
+            "path": "mods/backpacked-forge-1.20.1-3.0.0-beta.9.jar"
+          }
+        },
+        {
+          "id": "balm-forge-1.20.1-7.3.42.jar",
+          "name": "Balm",
+          "type": "File",
+          "artifact": {
+            "size": 561670,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/balm-forge-1.20.1-7.3.42.jar",
+            "MD5": "d2e369fb61ea048f1a24c6d467f784a0",
+            "path": "mods/balm-forge-1.20.1-7.3.42.jar"
+          }
+        },
+        {
+          "id": "blockui-1.20.1-1.0.193.jar",
+          "name": "blockui-1.20.1-1.0.193.jar",
+          "type": "File",
+          "artifact": {
+            "size": 391010,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/blockui-1.20.1-1.0.193.jar",
+            "MD5": "b8cbcddb7e1ff76483e5f7045300ce97",
+            "path": "mods/blockui-1.20.1-1.0.193.jar"
+          }
+        },
+        {
+          "id": "BuildCraft-Community-Edition-8.0.22+1.20.1+forge.jar",
+          "name": "BuildCraft-Community-Edition-8.0.22+1.20.1+forge.jar",
+          "type": "File",
+          "artifact": {
+            "size": 7297246,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/BuildCraft-Community-Edition-8.0.22%2B1.20.1%2Bforge.jar",
+            "MD5": "1f179fc229737564c0818865d5d0dacb",
+            "path": "mods/BuildCraft-Community-Edition-8.0.22+1.20.1+forge.jar"
+          }
+        },
+        {
+          "id": "buildcraftlocalizations-1.0.3+1.20.1-forge.jar",
+          "name": "buildcraftlocalizations-1.0.3+1.20.1-forge.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1969418,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/buildcraftlocalizations-1.0.3%2B1.20.1-forge.jar",
+            "MD5": "319f3f76ec9562622c9060270f52fa4a",
+            "path": "mods/buildcraftlocalizations-1.0.3+1.20.1-forge.jar"
+          }
+        },
+        {
+          "id": "carryon-forge-1.20.1-2.1.2.7.jar",
+          "name": "Carry On",
+          "type": "File",
+          "artifact": {
+            "size": 439457,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/carryon-forge-1.20.1-2.1.2.7.jar",
+            "MD5": "8956b37c2ae11cc5522c8404a262c6b7",
+            "path": "mods/carryon-forge-1.20.1-2.1.2.7.jar"
+          }
+        },
+        {
+          "id": "chat_heads-0.15.7-forge-1.20.jar",
+          "name": "Chat Heads",
+          "type": "File",
+          "artifact": {
+            "size": 724902,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/chat_heads-0.15.7-forge-1.20.jar",
+            "MD5": "edf017b1081ed0fc16e6409b79b90db6",
+            "path": "mods/chat_heads-0.15.7-forge-1.20.jar"
+          }
+        },
+        {
+          "id": "citadel-2.6.3-1.20.1.jar",
+          "name": "Citadel",
+          "type": "File",
+          "artifact": {
+            "size": 3185275,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/citadel-2.6.3-1.20.1.jar",
+            "MD5": "da80c09b998d829b6d580e5be76dcc7b",
+            "path": "mods/citadel-2.6.3-1.20.1.jar"
+          }
+        },
+        {
+          "id": "Corgilib-Forge-1.20.1-4.0.3.5.jar",
+          "name": "CorgiLib",
+          "type": "File",
+          "artifact": {
+            "size": 318765,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/Corgilib-Forge-1.20.1-4.0.3.5.jar",
+            "MD5": "f8bf9cc4928b14b5b83a3d970545bb83",
+            "path": "mods/Corgilib-Forge-1.20.1-4.0.3.5.jar"
+          }
+        },
+        {
+          "id": "create-1.20.1-6.0.8.jar",
+          "name": "Create",
+          "type": "File",
+          "artifact": {
+            "size": 19170905,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/create-1.20.1-6.0.8.jar",
+            "MD5": "6ebc5c57638c1678359eac65b924c310",
+            "path": "mods/create-1.20.1-6.0.8.jar"
+          }
+        },
+        {
+          "id": "CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
+          "name": "CreativeCore",
+          "type": "File",
+          "artifact": {
+            "size": 1144128,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/CreativeCore_FORGE_v2.12.39_mc1.20.1.jar",
+            "MD5": "941e290ecd7ca54c2ed6a543b68d754b",
+            "path": "mods/CreativeCore_FORGE_v2.12.39_mc1.20.1.jar"
+          }
+        },
+        {
+          "id": "curios-forge-5.14.1+1.20.1.jar",
+          "name": "Curios API",
+          "type": "File",
+          "artifact": {
+            "size": 398066,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/curios-forge-5.14.1%2B1.20.1.jar",
+            "MD5": "2fdcc97cbc66c4b2492b407c792e7159",
+            "path": "mods/curios-forge-5.14.1+1.20.1.jar"
+          }
+        },
+        {
+          "id": "domum_ornamentum-1.20.1-1.0.296-universal.jar",
+          "name": "domum_ornamentum-1.20.1-1.0.296-universal.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1141555,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/domum_ornamentum-1.20.1-1.0.296-universal.jar",
+            "MD5": "2a29092b7f67ac477f253c44d3d0463c",
+            "path": "mods/domum_ornamentum-1.20.1-1.0.296-universal.jar"
+          }
+        },
+        {
+          "id": "FarmersDelight-1.20.1-1.3.4.jar",
+          "name": "Farmer's Delight",
+          "type": "File",
+          "artifact": {
+            "size": 3311051,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/FarmersDelight-1.20.1-1.3.4.jar",
+            "MD5": "a61302a31849ad9c37c6ac6e59268b75",
+            "path": "mods/FarmersDelight-1.20.1-1.3.4.jar"
+          }
+        },
+        {
+          "id": "framework-forge-1.20.1-0.8.0.jar",
+          "name": "Framework",
+          "type": "File",
+          "artifact": {
+            "size": 383868,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/framework-forge-1.20.1-0.8.0.jar",
+            "MD5": "6d9a54cd004b15028673b309243e07a2",
+            "path": "mods/framework-forge-1.20.1-0.8.0.jar"
+          }
+        },
+        {
+          "id": "geckolib-forge-1.20.1-4.8.4.jar",
+          "name": "GeckoLib 4",
+          "type": "File",
+          "artifact": {
+            "size": 1038209,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/geckolib-forge-1.20.1-4.8.4.jar",
+            "MD5": "83c73bcbf5778235569025ed968dc3ec",
+            "path": "mods/geckolib-forge-1.20.1-4.8.4.jar"
+          }
+        },
+        {
+          "id": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+          "name": "GlitchCore",
+          "type": "File",
+          "artifact": {
+            "size": 87550,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+            "MD5": "6d24b09db12acdab40437a1929259352",
+            "path": "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
+          }
+        },
+        {
+          "id": "IceAndFireCE-1.2.9-1.20.1-forge.jar",
+          "name": "Ice And Fire Community Edition",
+          "type": "File",
+          "artifact": {
+            "size": 26993526,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/IceAndFireCE-1.2.9-1.20.1-forge.jar",
+            "MD5": "7395d0db7911ef4042578408a51f0018",
+            "path": "mods/IceAndFireCE-1.2.9-1.20.1-forge.jar"
+          }
+        },
+        {
+          "id": "immersive_aircraft-1.2.2+1.20.1-forge.jar",
+          "name": "Immersive Aircraft",
+          "type": "File",
+          "artifact": {
+            "size": 2180392,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/immersive_aircraft-1.2.2%2B1.20.1-forge.jar",
+            "MD5": "18fa516980439d1b7f4fd1d3a68334f8",
+            "path": "mods/immersive_aircraft-1.2.2+1.20.1-forge.jar"
+          }
+        },
+        {
+          "id": "InkSpellBooks-LoM-Addon-1.0.0.jar",
+          "name": "InkSpellBooks-LoM-Addon-1.0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 16053,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/InkSpellBooks-LoM-Addon-1.0.0.jar",
+            "MD5": "baafe079351963309e2b79ec74e342d0",
+            "path": "mods/InkSpellBooks-LoM-Addon-1.0.0.jar"
+          }
+        },
+        {
+          "id": "irons_lib-1.20.1-2.1.0.jar",
+          "name": "Iron's Lib",
+          "type": "File",
+          "artifact": {
+            "size": 428969,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/irons_lib-1.20.1-2.1.0.jar",
+            "MD5": "5c73106c1323bf7fd01d5da09869444f",
+            "path": "mods/irons_lib-1.20.1-2.1.0.jar"
+          }
+        },
+        {
+          "id": "irons_spellbooks-1.20.1-3.16.3.jar",
+          "name": "Iron's Spells 'n Spellbooks",
+          "type": "File",
+          "artifact": {
+            "size": 15570397,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/irons_spellbooks-1.20.1-3.16.3.jar",
+            "MD5": "80430dfbfab4af59e45ffb9d4d601762",
+            "path": "mods/irons_spellbooks-1.20.1-3.16.3.jar"
+          }
+        },
+        {
+          "id": "ItemPhysic_FORGE_v1.8.7_mc1.20.1.jar",
+          "name": "ItemPhysic",
+          "type": "File",
+          "artifact": {
+            "size": 53417,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/ItemPhysic_FORGE_v1.8.7_mc1.20.1.jar",
+            "MD5": "63bcc8b515da26a9d325dc65beb94082",
+            "path": "mods/ItemPhysic_FORGE_v1.8.7_mc1.20.1.jar"
+          }
+        },
+        {
+          "id": "Jade-1.20.1-Forge-11.13.3.jar",
+          "name": "Jade",
+          "type": "File",
+          "artifact": {
+            "size": 553487,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/Jade-1.20.1-Forge-11.13.3.jar",
+            "MD5": "a53aade6b5915ebe8357abb68cf1f778",
+            "path": "mods/Jade-1.20.1-Forge-11.13.3.jar"
+          }
+        },
+        {
+          "id": "JadeAddons-1.20.1-Forge-5.5.1.jar",
+          "name": "Jade Addons",
+          "type": "File",
+          "artifact": {
+            "size": 91754,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/JadeAddons-1.20.1-Forge-5.5.1.jar",
+            "MD5": "b5f939a79e57f78a3ef0e6c1cfd6ea59",
+            "path": "mods/JadeAddons-1.20.1-Forge-5.5.1.jar"
+          }
+        },
+        {
+          "id": "jeed-1.20-2.2.5.jar",
+          "name": "Just Enough Effects Descriptions",
+          "type": "File",
+          "artifact": {
+            "size": 159288,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/jeed-1.20-2.2.5.jar",
+            "MD5": "6792ef4a197457dcff0b4353e956a94d",
+            "path": "mods/jeed-1.20-2.2.5.jar"
+          }
+        },
+        {
+          "id": "jei-1.20.1-forge-15.20.0.112.jar",
+          "name": "Just Enough Items",
+          "type": "File",
+          "artifact": {
+            "size": 1385600,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/jei-1.20.1-forge-15.20.0.112.jar",
+            "MD5": "c899d5b549ace1e9fa46700c778c3809",
+            "path": "mods/jei-1.20.1-forge-15.20.0.112.jar"
+          }
+        },
+        {
+          "id": "lanserverproperties-1.11.1-forge.jar",
+          "name": "lanserverproperties-1.11.1-forge.jar",
+          "type": "File",
+          "artifact": {
+            "size": 44387,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/lanserverproperties-1.11.1-forge.jar",
+            "MD5": "3c207f249ba20d06c1304c48bab48a17",
+            "path": "mods/lanserverproperties-1.11.1-forge.jar"
+          }
+        },
+        {
+          "id": "legendarysurvivaloverhaul-1.20.1-2.3.23.1.jar",
+          "name": "Legendary Survival Overhaul",
+          "type": "File",
+          "artifact": {
+            "size": 3681245,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/legendarysurvivaloverhaul-1.20.1-2.3.23.1.jar",
+            "MD5": "dfc1f9f473ffcb6a4d1ff24a6f7cf46f",
+            "path": "mods/legendarysurvivaloverhaul-1.20.1-2.3.23.1.jar"
+          }
+        },
+        {
+          "id": "legendarytabs-1.20.1-1.1.3.jar",
+          "name": "Legendary Tabs",
+          "type": "File",
+          "artifact": {
+            "size": 78115,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/legendarytabs-1.20.1-1.1.3.jar",
+            "MD5": "4b5f38cc76226dc2b4a18c46d854298e",
+            "path": "mods/legendarytabs-1.20.1-1.1.3.jar"
+          }
+        },
+        {
+          "id": "lithostitched-forge-1.20.1-1.4.11.jar",
+          "name": "Lithostitched",
+          "type": "File",
+          "artifact": {
+            "size": 476347,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/lithostitched-forge-1.20.1-1.4.11.jar",
+            "MD5": "3c596bbc1b5f769f22be751e9c21a6c8",
+            "path": "mods/lithostitched-forge-1.20.1-1.4.11.jar"
+          }
+        },
+        {
+          "id": "lom-skin-loader-0.2.0.jar",
+          "name": "lom-skin-loader-0.2.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 33083,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/lom-skin-loader-0.2.0.jar",
+            "MD5": "59b60e83c02304658ccc3dbd62a48fd7",
+            "path": "mods/lom-skin-loader-0.2.0.jar"
+          }
+        },
+        {
+          "id": "lootr-forge-1.20-0.7.35.91.jar",
+          "name": "Lootr",
+          "type": "File",
+          "artifact": {
+            "size": 458532,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/lootr-forge-1.20-0.7.35.91.jar",
+            "MD5": "512ee49d21782875b33513fb074eb098",
+            "path": "mods/lootr-forge-1.20-0.7.35.91.jar"
+          }
+        },
+        {
+          "id": "map_atlases-1.20-6.0.20.jar",
+          "name": "Map Atlases",
+          "type": "File",
+          "artifact": {
+            "size": 751854,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/map_atlases-1.20-6.0.20.jar",
+            "MD5": "12f65fced02df57bfe874dd92a3d0cff",
+            "path": "mods/map_atlases-1.20-6.0.20.jar"
+          }
+        },
+        {
+          "id": "minecolonies-1.20.1-1.1.1301.jar",
+          "name": "minecolonies-1.20.1-1.1.1301.jar",
+          "type": "File",
+          "artifact": {
+            "size": 78186865,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/minecolonies-1.20.1-1.1.1301.jar",
+            "MD5": "7ca79d10d94bc99d79db9a11c03fd757",
+            "path": "mods/minecolonies-1.20.1-1.1.1301.jar"
+          }
+        },
+        {
+          "id": "moonlight-1.20-2.16.35-forge.jar",
+          "name": "Moonlight Library",
+          "type": "File",
+          "artifact": {
+            "size": 1425229,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/moonlight-1.20-2.16.35-forge.jar",
+            "MD5": "e679bad3fe734d0ef14104487ffaddb3",
+            "path": "mods/moonlight-1.20-2.16.35-forge.jar"
+          }
+        },
+        {
+          "id": "multipiston-1.20-1.2.43-RELEASE.jar",
+          "name": "multipiston-1.20-1.2.43-RELEASE.jar",
+          "type": "File",
+          "artifact": {
+            "size": 38718,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/multipiston-1.20-1.2.43-RELEASE.jar",
+            "MD5": "48f2e9c30652069194b23e987a1d35ce",
+            "path": "mods/multipiston-1.20-1.2.43-RELEASE.jar"
+          }
+        },
+        {
+          "id": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+          "name": "OctoLib",
+          "type": "File",
+          "artifact": {
+            "size": 424035,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar",
+            "MD5": "6b2fd012966b13a96ce4f68ae42eab8c",
+            "path": "mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar"
+          }
+        },
+        {
+          "id": "Oh-The-Biomes-Weve-Gone-Forge-1.8.0.jar",
+          "name": "Oh The Biomes We've Gone",
+          "type": "File",
+          "artifact": {
+            "size": 19043613,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/Oh-The-Biomes-Weve-Gone-Forge-1.8.0.jar",
+            "MD5": "8ecfa6be1ee15e99782697c87978d7c2",
+            "path": "mods/Oh-The-Biomes-Weve-Gone-Forge-1.8.0.jar"
+          }
+        },
+        {
+          "id": "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.0.jar",
+          "name": "Oh The Trees You'll Grow",
+          "type": "File",
+          "artifact": {
+            "size": 171966,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.0.jar",
+            "MD5": "df3fd97fa05a2d83e65b922a8e6eb8d5",
+            "path": "mods/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.0.jar"
+          }
+        },
+        {
+          "id": "OverflowingBars-v8.0.1-1.20.1-Forge.jar",
+          "name": "Overflowing Bars",
+          "type": "File",
+          "artifact": {
+            "size": 73689,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/OverflowingBars-v8.0.1-1.20.1-Forge.jar",
+            "MD5": "6152710c2ddbd371b91eb7c44aee6167",
+            "path": "mods/OverflowingBars-v8.0.1-1.20.1-Forge.jar"
+          }
+        },
+        {
+          "id": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+          "name": "Player Animator",
+          "type": "File",
+          "artifact": {
+            "size": 181437,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
+            "MD5": "46f8554181d4d240075ea4919d01fd01",
+            "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
+          }
+        },
+        {
+          "id": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+          "name": "Puzzles Lib",
+          "type": "File",
+          "artifact": {
+            "size": 1342987,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+            "MD5": "19f23e3040eaadc7c30ae38f5a3dec68",
+            "path": "mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar"
+          }
+        },
+        {
+          "id": "RegionsUnexploredForge-0.5.6+1.20.1.jar",
+          "name": "RegionsUnexploredForge-0.5.6+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 5726781,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/RegionsUnexploredForge-0.5.6%2B1.20.1.jar",
+            "MD5": "82c3073f606044e7b56d432d324ca480",
+            "path": "mods/RegionsUnexploredForge-0.5.6+1.20.1.jar"
+          }
+        },
+        {
+          "id": "relics-1.20.1-0.8.0.13.jar",
+          "name": "Relics",
+          "type": "File",
+          "artifact": {
+            "size": 1521089,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/relics-1.20.1-0.8.0.13.jar",
+            "MD5": "8e8a8beb1ac0776448dfbcec179734a1",
+            "path": "mods/relics-1.20.1-0.8.0.13.jar"
+          }
+        },
+        {
+          "id": "SereneSeasons-forge-1.20.1-9.1.0.3.jar",
+          "name": "Serene Seasons",
+          "type": "File",
+          "artifact": {
+            "size": 160885,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/SereneSeasons-forge-1.20.1-9.1.0.3.jar",
+            "MD5": "496c07d3696c3a77307b15b618ed60ff",
+            "path": "mods/SereneSeasons-forge-1.20.1-9.1.0.3.jar"
+          }
+        },
+        {
+          "id": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+          "name": "Sodium Dynamic Lights",
+          "type": "File",
+          "artifact": {
+            "size": 511601,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+            "MD5": "687c18cefa558ca8101ef97914d9ba6b",
+            "path": "mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar"
+          }
+        },
+        {
+          "id": "sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+          "name": "Sodium Options API",
+          "type": "File",
+          "artifact": {
+            "size": 443978,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+            "MD5": "75807590ae2648ecdeb855705868ce59",
+            "path": "mods/sodiumoptionsapi-forge-1.0.10-1.20.1.jar"
+          }
+        },
+        {
+          "id": "sophisticatedbackpacks-1.20.1-3.26.3.2157.jar",
+          "name": "Sophisticated Backpacks",
+          "type": "File",
+          "artifact": {
+            "size": 1223451,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/sophisticatedbackpacks-1.20.1-3.26.3.2157.jar",
+            "MD5": "af7addfe0567cd18ac11e6129a91f7bc",
+            "path": "mods/sophisticatedbackpacks-1.20.1-3.26.3.2157.jar"
+          }
+        },
+        {
+          "id": "sophisticatedcore-1.20.1-1.5.1.2335.jar",
+          "name": "Sophisticated Core",
+          "type": "File",
+          "artifact": {
+            "size": 1734797,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/sophisticatedcore-1.20.1-1.5.1.2335.jar",
+            "MD5": "c7545991854e04e6568c5173810a2564",
+            "path": "mods/sophisticatedcore-1.20.1-1.5.1.2335.jar"
+          }
+        },
+        {
+          "id": "structurize-1.20.1-1.0.818.jar",
+          "name": "structurize-1.20.1-1.0.818.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1129459,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/structurize-1.20.1-1.0.818.jar",
+            "MD5": "61838a2791450efb6a0c15f5d173c802",
+            "path": "mods/structurize-1.20.1-1.0.818.jar"
+          }
+        },
+        {
+          "id": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+          "name": "TerraBlender",
+          "type": "File",
+          "artifact": {
+            "size": 107532,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+            "MD5": "9d8e305b95ae5a8f7b446d6346324267",
+            "path": "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar"
+          }
+        },
+        {
+          "id": "TreeChop-1.20.1-forge-0.19.0-fixed.jar",
+          "name": "HT's TreeChop",
+          "type": "File",
+          "artifact": {
+            "size": 517225,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/TreeChop-1.20.1-forge-0.19.0-fixed.jar",
+            "MD5": "e178293a133747657f802688b8c63d27",
+            "path": "mods/TreeChop-1.20.1-forge-0.19.0-fixed.jar"
+          }
+        },
+        {
+          "id": "uranus-2.2.6-bugfix.2-1.20.1-forge.jar",
+          "name": "Uranus",
+          "type": "File",
+          "artifact": {
+            "size": 823386,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/uranus-2.2.6-bugfix.2-1.20.1-forge.jar",
+            "MD5": "0f105911ccb83c0af4440b78dd141af4",
+            "path": "mods/uranus-2.2.6-bugfix.2-1.20.1-forge.jar"
+          }
+        },
+        {
+          "id": "waystones-forge-1.20.1-14.1.20.jar",
+          "name": "Waystones",
+          "type": "File",
+          "artifact": {
+            "size": 533738,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/waystones-forge-1.20.1-14.1.20.jar",
+            "MD5": "eb4dcdc36470b7fd858c39547ad1c7d2",
+            "path": "mods/waystones-forge-1.20.1-14.1.20.jar"
+          }
+        },
+        {
+          "id": "config/appleskin-client.toml",
+          "name": "appleskin-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1337,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/appleskin-client.toml",
+            "MD5": "cc9331640387a73d5a9444e444bb93d5",
+            "path": "config/appleskin-client.toml"
+          }
+        },
+        {
+          "id": "config/backpacked.augments.toml",
+          "name": "backpacked.augments.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1605,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/backpacked.augments.toml",
+            "MD5": "1826458e800323aff6a4d9f3c03a5c74",
+            "path": "config/backpacked.augments.toml"
+          }
+        },
+        {
+          "id": "config/backpacked.backpack.toml",
+          "name": "backpacked.backpack.toml",
+          "type": "File",
+          "artifact": {
+            "size": 26292,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/backpacked.backpack.toml",
+            "MD5": "09a53a1f81191801d4663bf6bd805790",
+            "path": "config/backpacked.backpack.toml"
+          }
+        },
+        {
+          "id": "config/backpacked.client.toml",
+          "name": "backpacked.client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 234,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/backpacked.client.toml",
+            "MD5": "dad93ceb264a9d3c13545c33a04906fd",
+            "path": "config/backpacked.client.toml"
+          }
+        },
+        {
+          "id": "config/backpacked.server.toml",
+          "name": "backpacked.server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 5865,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/backpacked.server.toml",
+            "MD5": "9380373e93e21ad5c3c4a22184a44828",
+            "path": "config/backpacked.server.toml"
+          }
+        },
+        {
+          "id": "config/biomeswevegone/mob_spawn.json",
+          "name": "mob_spawn.json",
+          "type": "File",
+          "artifact": {
+            "size": 62,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/biomeswevegone/mob_spawn.json",
+            "MD5": "dbbf1c39291de3d47bb4d93c9a899076",
+            "path": "config/biomeswevegone/mob_spawn.json"
+          }
+        },
+        {
+          "id": "config/biomeswevegone/trades.json",
+          "name": "trades.json",
+          "type": "File",
+          "artifact": {
+            "size": 639,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/biomeswevegone/trades.json",
+            "MD5": "72787d919c96962faa48f4f4ffb78cf8",
+            "path": "config/biomeswevegone/trades.json"
+          }
+        },
+        {
+          "id": "config/biomeswevegone/world_generation.json",
+          "name": "world_generation.json",
+          "type": "File",
+          "artifact": {
+            "size": 4159,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/biomeswevegone/world_generation.json",
+            "MD5": "b861e6f2260085d197a740379013755c",
+            "path": "config/biomeswevegone/world_generation.json"
+          }
+        },
+        {
+          "id": "config/carryon-client.toml",
+          "name": "carryon-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 583,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/carryon-client.toml",
+            "MD5": "6c1101854b76fcb96687535b98a8218e",
+            "path": "config/carryon-client.toml"
+          }
+        },
+        {
+          "id": "config/carryon-common.toml",
+          "name": "carryon-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 7072,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/carryon-common.toml",
+            "MD5": "4cd7447b0cb9ef7bae5688b8fe532091",
+            "path": "config/carryon-common.toml"
+          }
+        },
+        {
+          "id": "config/chat_heads.json5",
+          "name": "chat_heads.json5",
+          "type": "File",
+          "artifact": {
+            "size": 229,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/chat_heads.json5",
+            "MD5": "582cc3f28157f02c5504e49bc7e4a9f2",
+            "path": "config/chat_heads.json5"
+          }
+        },
+        {
+          "id": "config/create-client.toml",
+          "name": "create-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4264,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/create-client.toml",
+            "MD5": "ab39ff8313deea3816310d557619ae54",
+            "path": "config/create-client.toml"
+          }
+        },
+        {
+          "id": "config/create-common.toml",
+          "name": "create-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 148,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/create-common.toml",
+            "MD5": "b4921f5f493e86417f451cad5fba8c5e",
+            "path": "config/create-common.toml"
+          }
+        },
+        {
+          "id": "config/farmersdelight-client.toml",
+          "name": "farmersdelight-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 471,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/farmersdelight-client.toml",
+            "MD5": "b1efa256c1c29461c7a7ef4d3284ed02",
+            "path": "config/farmersdelight-client.toml"
+          }
+        },
+        {
+          "id": "config/farmersdelight-common.toml",
+          "name": "farmersdelight-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3863,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/farmersdelight-common.toml",
+            "MD5": "ff74d30483e3fd6ddea07aae1885757d",
+            "path": "config/farmersdelight-common.toml"
+          }
+        },
+        {
+          "id": "config/iceandfire-client.toml",
+          "name": "iceandfire-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 312,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire-client.toml",
+            "MD5": "7709d7e0e10ff2fa2e29808bc87e58f9",
+            "path": "config/iceandfire-client.toml"
+          }
+        },
+        {
+          "id": "config/iceandfire-common.toml",
+          "name": "iceandfire-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 15517,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire-common.toml",
+            "MD5": "c762dc3a89f170ad2e5998ac7d9e7709",
+            "path": "config/iceandfire-common.toml"
+          }
+        },
+        {
+          "id": "config/iceandfire/amphithere_biomes.json",
+          "name": "amphithere_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 767,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/amphithere_biomes.json",
+            "MD5": "7f65e1eea64b0ce81b2e982a266ac3e1",
+            "path": "config/iceandfire/amphithere_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/cockatrice_biomes.json",
+          "name": "cockatrice_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 907,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/cockatrice_biomes.json",
+            "MD5": "e492fff25200e1ca641de208ae40593c",
+            "path": "config/iceandfire/cockatrice_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/cyclops_cave_biomes.json",
+          "name": "cyclops_cave_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 610,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/cyclops_cave_biomes.json",
+            "MD5": "c396d1ee4812565788a5f3db1bc11e98",
+            "path": "config/iceandfire/cyclops_cave_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/deathworm_biomes.json",
+          "name": "deathworm_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 1369,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/deathworm_biomes.json",
+            "MD5": "1ebce8c26f686df1db9e6159d9cf856f",
+            "path": "config/iceandfire/deathworm_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/desert_myrmex_biomes.json",
+          "name": "desert_myrmex_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 1369,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/desert_myrmex_biomes.json",
+            "MD5": "1ebce8c26f686df1db9e6159d9cf856f",
+            "path": "config/iceandfire/desert_myrmex_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/fire_dragon_biomes.json",
+          "name": "fire_dragon_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 2113,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/fire_dragon_biomes.json",
+            "MD5": "137a6179c1db3fced175589bd9d2e935",
+            "path": "config/iceandfire/fire_dragon_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/fire_dragon_cave_biomes.json",
+          "name": "fire_dragon_cave_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 2113,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/fire_dragon_cave_biomes.json",
+            "MD5": "137a6179c1db3fced175589bd9d2e935",
+            "path": "config/iceandfire/fire_dragon_cave_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/fire_dragon_skeleton_biomes.json",
+          "name": "fire_dragon_skeleton_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 1369,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/fire_dragon_skeleton_biomes.json",
+            "MD5": "1ebce8c26f686df1db9e6159d9cf856f",
+            "path": "config/iceandfire/fire_dragon_skeleton_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/fire_lily_biomes.json",
+          "name": "fire_lily_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 277,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/fire_lily_biomes.json",
+            "MD5": "5fa444eee38addb87c6901233aa4bb79",
+            "path": "config/iceandfire/fire_lily_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/forest_troll_biomes.json",
+          "name": "forest_troll_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 255,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/forest_troll_biomes.json",
+            "MD5": "8645141c4fb7a8520d7024abc8d77144",
+            "path": "config/iceandfire/forest_troll_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/frost_lily_biomes.json",
+          "name": "frost_lily_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 624,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/frost_lily_biomes.json",
+            "MD5": "d5abdffe41f381661f6760f644f49ceb",
+            "path": "config/iceandfire/frost_lily_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/gorgon_temple_biomes.json",
+          "name": "gorgon_temple_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 610,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/gorgon_temple_biomes.json",
+            "MD5": "c396d1ee4812565788a5f3db1bc11e98",
+            "path": "config/iceandfire/gorgon_temple_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/graveyard_biomes.json",
+          "name": "graveyard_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 467,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/graveyard_biomes.json",
+            "MD5": "8aad3ab2466e50e35a014cd0b8b971c4",
+            "path": "config/iceandfire/graveyard_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/hippocampus_biomes.json",
+          "name": "hippocampus_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 254,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/hippocampus_biomes.json",
+            "MD5": "fdc28e3f4a8ae1594cc7e56e112282e1",
+            "path": "config/iceandfire/hippocampus_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/hippogryph_biomes.json",
+          "name": "hippogryph_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 855,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/hippogryph_biomes.json",
+            "MD5": "607a83fcd92489ffe629c9630d5f242d",
+            "path": "config/iceandfire/hippogryph_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/hippogryph_black_biomes.json",
+          "name": "hippogryph_black_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 279,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/hippogryph_black_biomes.json",
+            "MD5": "0f88db708f65a8d662b84f0df2c2370e",
+            "path": "config/iceandfire/hippogryph_black_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/hippogryph_brown_biomes.json",
+          "name": "hippogryph_brown_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 486,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/hippogryph_brown_biomes.json",
+            "MD5": "5c9d096ec1bef1fd91fd1b64c7a2c85a",
+            "path": "config/iceandfire/hippogryph_brown_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/hippogryph_chestnut_biomes.json",
+          "name": "hippogryph_chestnut_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 601,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/hippogryph_chestnut_biomes.json",
+            "MD5": "43ce8581248fe3edb241da1ceccdd996",
+            "path": "config/iceandfire/hippogryph_chestnut_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/hippogryph_creamy_biomes.json",
+          "name": "hippogryph_creamy_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 286,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/hippogryph_creamy_biomes.json",
+            "MD5": "d1d2f88b1f880497028cf8053fcde1b0",
+            "path": "config/iceandfire/hippogryph_creamy_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/hippogryph_dark_brown_biomes.json",
+          "name": "hippogryph_dark_brown_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 1050,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/hippogryph_dark_brown_biomes.json",
+            "MD5": "86b897ce039077b967baf059e2daca1a",
+            "path": "config/iceandfire/hippogryph_dark_brown_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/hippogryph_gray_biomes.json",
+          "name": "hippogryph_gray_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 418,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/hippogryph_gray_biomes.json",
+            "MD5": "75f5303720b2c5425b4f95d636bf147a",
+            "path": "config/iceandfire/hippogryph_gray_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/hippogryph_white_biomes.json",
+          "name": "hippogryph_white_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 1249,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/hippogryph_white_biomes.json",
+            "MD5": "2a5348c73480fbdb6a1969fdb424da63",
+            "path": "config/iceandfire/hippogryph_white_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/hydra_cave_biomes.json",
+          "name": "hydra_cave_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 747,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/hydra_cave_biomes.json",
+            "MD5": "cd25cc30beaf737678aa8d58dd5e2d29",
+            "path": "config/iceandfire/hydra_cave_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/iaf-client.json",
+          "name": "iaf-client.json",
+          "type": "File",
+          "artifact": {
+            "size": 108,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/iaf-client.json",
+            "MD5": "3cc4214c82dd180c7a73e657f417a0e7",
+            "path": "config/iceandfire/iaf-client.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/iaf-common.json",
+          "name": "iaf-common.json",
+          "type": "File",
+          "artifact": {
+            "size": 3937,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/iaf-common.json",
+            "MD5": "8cedbe2020590edae462776d977ab9d5",
+            "path": "config/iceandfire/iaf-common.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/ice_dragon_biomes.json",
+          "name": "ice_dragon_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 534,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/ice_dragon_biomes.json",
+            "MD5": "fe4e82bd1233c6392116013dda963f44",
+            "path": "config/iceandfire/ice_dragon_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/ice_dragon_cave_biomes.json",
+          "name": "ice_dragon_cave_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 534,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/ice_dragon_cave_biomes.json",
+            "MD5": "fe4e82bd1233c6392116013dda963f44",
+            "path": "config/iceandfire/ice_dragon_cave_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/ice_dragon_skeleton_biomes.json",
+          "name": "ice_dragon_skeleton_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 624,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/ice_dragon_skeleton_biomes.json",
+            "MD5": "d5abdffe41f381661f6760f644f49ceb",
+            "path": "config/iceandfire/ice_dragon_skeleton_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/jungle_myrmex_biomes.json",
+          "name": "jungle_myrmex_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 767,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/jungle_myrmex_biomes.json",
+            "MD5": "7f65e1eea64b0ce81b2e982a266ac3e1",
+            "path": "config/iceandfire/jungle_myrmex_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/lightning_dragon_biomes.json",
+          "name": "lightning_dragon_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 1748,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/lightning_dragon_biomes.json",
+            "MD5": "af77e7ade7ab572f9fb2378a26a30166",
+            "path": "config/iceandfire/lightning_dragon_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/lightning_dragon_cave_biomes.json",
+          "name": "lightning_dragon_cave_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 1748,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/lightning_dragon_cave_biomes.json",
+            "MD5": "af77e7ade7ab572f9fb2378a26a30166",
+            "path": "config/iceandfire/lightning_dragon_cave_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/lightning_dragon_skeleton_biomes.json",
+          "name": "lightning_dragon_skeleton_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 907,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/lightning_dragon_skeleton_biomes.json",
+            "MD5": "e492fff25200e1ca641de208ae40593c",
+            "path": "config/iceandfire/lightning_dragon_skeleton_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/lightning_lily_biomes.json",
+          "name": "lightning_lily_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 907,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/lightning_lily_biomes.json",
+            "MD5": "e492fff25200e1ca641de208ae40593c",
+            "path": "config/iceandfire/lightning_lily_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/mausoleum_biomes.json",
+          "name": "mausoleum_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 728,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/mausoleum_biomes.json",
+            "MD5": "fe18b4c2eebb60f3f45903954309adff",
+            "path": "config/iceandfire/mausoleum_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/mountain_troll_biomes.json",
+          "name": "mountain_troll_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 486,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/mountain_troll_biomes.json",
+            "MD5": "5c9d096ec1bef1fd91fd1b64c7a2c85a",
+            "path": "config/iceandfire/mountain_troll_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/ore_gen_biomes.json",
+          "name": "ore_gen_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 145,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/ore_gen_biomes.json",
+            "MD5": "2c88b50ebef0c2d8cefd7fec53cc1b31",
+            "path": "config/iceandfire/ore_gen_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/pixie_village_biomes.json",
+          "name": "pixie_village_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 2194,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/pixie_village_biomes.json",
+            "MD5": "3cff4b5b8b4204374671b7d98c55af6e",
+            "path": "config/iceandfire/pixie_village_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/sapphire_gen_biomes.json",
+          "name": "sapphire_gen_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 624,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/sapphire_gen_biomes.json",
+            "MD5": "d5abdffe41f381661f6760f644f49ceb",
+            "path": "config/iceandfire/sapphire_gen_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/sea_serpent_biomes.json",
+          "name": "sea_serpent_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 254,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/sea_serpent_biomes.json",
+            "MD5": "fdc28e3f4a8ae1594cc7e56e112282e1",
+            "path": "config/iceandfire/sea_serpent_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/siren_biomes.json",
+          "name": "siren_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 254,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/siren_biomes.json",
+            "MD5": "fdc28e3f4a8ae1594cc7e56e112282e1",
+            "path": "config/iceandfire/siren_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/snowy_troll_biomes.json",
+          "name": "snowy_troll_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 250,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/snowy_troll_biomes.json",
+            "MD5": "48171261e1dc6809cddb7c5bd301ffdd",
+            "path": "config/iceandfire/snowy_troll_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/stymphalian_bird_biomes.json",
+          "name": "stymphalian_bird_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 747,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/stymphalian_bird_biomes.json",
+            "MD5": "cd25cc30beaf737678aa8d58dd5e2d29",
+            "path": "config/iceandfire/stymphalian_bird_biomes.json"
+          }
+        },
+        {
+          "id": "config/iceandfire/wandering_cyclops_biomes.json",
+          "name": "wandering_cyclops_biomes.json",
+          "type": "File",
+          "artifact": {
+            "size": 632,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/iceandfire/wandering_cyclops_biomes.json",
+            "MD5": "6044cd1e67bce8cc520b98a7ecace3af",
+            "path": "config/iceandfire/wandering_cyclops_biomes.json"
+          }
+        },
+        {
+          "id": "config/immersive_aircraft.json",
+          "name": "immersive_aircraft.json",
+          "type": "File",
+          "artifact": {
+            "size": 1518,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/immersive_aircraft.json",
+            "MD5": "0fb255e34e09111f80ff8f0a452c6056",
+            "path": "config/immersive_aircraft.json"
+          }
+        },
+        {
+          "id": "config/irons_spellbooks_spell_config/global_config.json",
+          "name": "global_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 257,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/irons_spellbooks_spell_config/global_config.json",
+            "MD5": "6cb19eead383de25ac484d1d88c32abf",
+            "path": "config/irons_spellbooks_spell_config/global_config.json"
+          }
+        },
+        {
+          "id": "config/irons_spellbooks-client.toml",
+          "name": "irons_spellbooks-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3496,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/irons_spellbooks-client.toml",
+            "MD5": "ed936d50d23043555bee1df32914e0f3",
+            "path": "config/irons_spellbooks-client.toml"
+          }
+        },
+        {
+          "id": "config/itemphysic-client.json",
+          "name": "itemphysic-client.json",
+          "type": "File",
+          "artifact": {
+            "size": 655,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/itemphysic-client.json",
+            "MD5": "f4698e3941bbb4de75ef53bd1418413d",
+            "path": "config/itemphysic-client.json"
+          }
+        },
+        {
+          "id": "config/itemphysic.json",
+          "name": "itemphysic.json",
+          "type": "File",
+          "artifact": {
+            "size": 8879,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/itemphysic.json",
+            "MD5": "08306544cf900a85a1246e49e369c522",
+            "path": "config/itemphysic.json"
+          }
+        },
+        {
+          "id": "config/jade/hide-blocks.json",
+          "name": "hide-blocks.json",
+          "type": "File",
+          "artifact": {
+            "size": 191,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/jade/hide-blocks.json",
+            "MD5": "da56a1383649dd1ebbbf41d9cfddb0da",
+            "path": "config/jade/hide-blocks.json"
+          }
+        },
+        {
+          "id": "config/jade/hide-entities.json",
+          "name": "hide-entities.json",
+          "type": "File",
+          "artifact": {
+            "size": 325,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/jade/hide-entities.json",
+            "MD5": "7b674db14cfdc978fa9786641eec8df6",
+            "path": "config/jade/hide-entities.json"
+          }
+        },
+        {
+          "id": "config/jade/jade.json",
+          "name": "jade.json",
+          "type": "File",
+          "artifact": {
+            "size": 974,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/jade/jade.json",
+            "MD5": "bfdbc8df70932e88399bd6c039163be0",
+            "path": "config/jade/jade.json"
+          }
+        },
+        {
+          "id": "config/jade/plugins.json",
+          "name": "plugins.json",
+          "type": "File",
+          "artifact": {
+            "size": 2571,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/jade/plugins.json",
+            "MD5": "5ccc59db9700ae7006769fce3a3b9fb8",
+            "path": "config/jade/plugins.json"
+          }
+        },
+        {
+          "id": "config/jade/sort-order.json",
+          "name": "sort-order.json",
+          "type": "File",
+          "artifact": {
+            "size": 2480,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/jade/sort-order.json",
+            "MD5": "89c95fb4b2ddde6a3c46d7868968f27e",
+            "path": "config/jade/sort-order.json"
+          }
+        },
+        {
+          "id": "config/jei/blacklist.cfg",
+          "name": "blacklist.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/jei/blacklist.cfg",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "config/jei/blacklist.cfg"
+          }
+        },
+        {
+          "id": "config/jei/ingredient-list-mod-sort-order.ini",
+          "name": "ingredient-list-mod-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 1121,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/jei/ingredient-list-mod-sort-order.ini",
+            "MD5": "d314610b00d7be414002ac62518ef449",
+            "path": "config/jei/ingredient-list-mod-sort-order.ini"
+          }
+        },
+        {
+          "id": "config/jei/ingredient-list-type-sort-order.ini",
+          "name": "ingredient-list-type-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 117,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/jei/ingredient-list-type-sort-order.ini",
+            "MD5": "45a03fcb43d881a709cef6ffec59734c",
+            "path": "config/jei/ingredient-list-type-sort-order.ini"
+          }
+        },
+        {
+          "id": "config/jei/jei-client.ini",
+          "name": "jei-client.ini",
+          "type": "File",
+          "artifact": {
+            "size": 7753,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/jei/jei-client.ini",
+            "MD5": "579f639738e5a3eaf475b62f25c41506",
+            "path": "config/jei/jei-client.ini"
+          }
+        },
+        {
+          "id": "config/jei/jei-colors.ini",
+          "name": "jei-colors.ini",
+          "type": "File",
+          "artifact": {
+            "size": 1330,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/jei/jei-colors.ini",
+            "MD5": "af367fbcbb607dddcdac7ff58ce40537",
+            "path": "config/jei/jei-colors.ini"
+          }
+        },
+        {
+          "id": "config/jei/jei-debug.ini",
+          "name": "jei-debug.ini",
+          "type": "File",
+          "artifact": {
+            "size": 886,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/jei/jei-debug.ini",
+            "MD5": "298d876ba059f2c6dd2fc205584f6a8e",
+            "path": "config/jei/jei-debug.ini"
+          }
+        },
+        {
+          "id": "config/jei/jei-mod-id-format.ini",
+          "name": "jei-mod-id-format.ini",
+          "type": "File",
+          "artifact": {
+            "size": 452,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/jei/jei-mod-id-format.ini",
+            "MD5": "364098057fabac71c5119e23a1cde587",
+            "path": "config/jei/jei-mod-id-format.ini"
+          }
+        },
+        {
+          "id": "config/jei/recipe-category-sort-order.ini",
+          "name": "recipe-category-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 2235,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/jei/recipe-category-sort-order.ini",
+            "MD5": "37724e015cc226eb96338f5e18d103b9",
+            "path": "config/jei/recipe-category-sort-order.ini"
+          }
+        },
+        {
+          "id": "config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-client.toml",
+          "name": "legendarysurvivaloverhaul-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4994,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-client.toml",
+            "MD5": "ab8dfc4183417cf937803f13453c9f28",
+            "path": "config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-client.toml"
+          }
+        },
+        {
+          "id": "config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml",
+          "name": "legendarysurvivaloverhaul-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 32276,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml",
+            "MD5": "bff3547db5f9aa8d06e487480f90e92e",
+            "path": "config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml"
+          }
+        },
+        {
+          "id": "config/legendarytabs/legendarytabs-client.toml",
+          "name": "legendarytabs-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1783,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/legendarytabs/legendarytabs-client.toml",
+            "MD5": "a3e867587c9369893ff047562a041370",
+            "path": "config/legendarytabs/legendarytabs-client.toml"
+          }
+        },
+        {
+          "id": "config/lootr-client.toml",
+          "name": "lootr-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 238,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/lootr-client.toml",
+            "MD5": "15cdc2dcbb1511d24b649343509517d2",
+            "path": "config/lootr-client.toml"
+          }
+        },
+        {
+          "id": "config/lootr-common.toml",
+          "name": "lootr-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 6111,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/lootr-common.toml",
+            "MD5": "b7b457fa5eb9762ca7052ad0614bbed8",
+            "path": "config/lootr-common.toml"
+          }
+        },
+        {
+          "id": "config/lsp.json",
+          "name": "lsp.json",
+          "type": "File",
+          "artifact": {
+            "size": 215,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/lsp.json",
+            "MD5": "8ef7173dea104bf7e1a6bfbc1bde3f2d",
+            "path": "config/lsp.json"
+          }
+        },
+        {
+          "id": "config/map_atlases-client.toml",
+          "name": "map_atlases-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 5044,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/map_atlases-client.toml",
+            "MD5": "851ae4e4db44ede20a5488ec0c501aea",
+            "path": "config/map_atlases-client.toml"
+          }
+        },
+        {
+          "id": "config/map_atlases-common.toml",
+          "name": "map_atlases-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2165,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/map_atlases-common.toml",
+            "MD5": "67e1ba5200cdbe3b0f2cbf00d9791469",
+            "path": "config/map_atlases-common.toml"
+          }
+        },
+        {
+          "id": "config/overflowingbars-client.toml",
+          "name": "overflowingbars-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3057,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/overflowingbars-client.toml",
+            "MD5": "ca19b751fba911cf9cfaa8c59882c236",
+            "path": "config/overflowingbars-client.toml"
+          }
+        },
+        {
+          "id": "config/regions_unexplored/ru-common.toml",
+          "name": "ru-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3533,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/regions_unexplored/ru-common.toml",
+            "MD5": "ab7a13c1c9b2eecff65430c398792033",
+            "path": "config/regions_unexplored/ru-common.toml"
+          }
+        },
+        {
+          "id": "config/regions_unexplored/ru-primary-region.toml",
+          "name": "ru-primary-region.toml",
+          "type": "File",
+          "artifact": {
+            "size": 13516,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/regions_unexplored/ru-primary-region.toml",
+            "MD5": "0f10352e1a65ab9db2b2368837cdae2f",
+            "path": "config/regions_unexplored/ru-primary-region.toml"
+          }
+        },
+        {
+          "id": "config/regions_unexplored/ru-secondary-region.toml",
+          "name": "ru-secondary-region.toml",
+          "type": "File",
+          "artifact": {
+            "size": 13451,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/regions_unexplored/ru-secondary-region.toml",
+            "MD5": "bf3800ebf51c941cbee0ccb89aba05dd",
+            "path": "config/regions_unexplored/ru-secondary-region.toml"
+          }
+        },
+        {
+          "id": "config/relics.yaml",
+          "name": "relics.yaml",
+          "type": "File",
+          "artifact": {
+            "size": 521,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/relics.yaml",
+            "MD5": "731452ee31a5f7248545d5568a71c554",
+            "path": "config/relics.yaml"
+          }
+        },
+        {
+          "id": "config/sereneseasons/fertility.toml",
+          "name": "fertility.toml",
+          "type": "File",
+          "artifact": {
+            "size": 471,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/sereneseasons/fertility.toml",
+            "MD5": "bc244a61d6159c9bba282ec5863bc407",
+            "path": "config/sereneseasons/fertility.toml"
+          }
+        },
+        {
+          "id": "config/sereneseasons/seasons.toml",
+          "name": "seasons.toml",
+          "type": "File",
+          "artifact": {
+            "size": 6550,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/sereneseasons/seasons.toml",
+            "MD5": "391187e7d3113981af64398917bf3b76",
+            "path": "config/sereneseasons/seasons.toml"
+          }
+        },
+        {
+          "id": "config/sodiumdynamiclights-client.toml",
+          "name": "sodiumdynamiclights-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 632,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/sodiumdynamiclights-client.toml",
+            "MD5": "2df41b738ab5beb6819aed9314f1e9d9",
+            "path": "config/sodiumdynamiclights-client.toml"
+          }
+        },
+        {
+          "id": "config/sophisticatedbackpacks-common.toml",
+          "name": "sophisticatedbackpacks-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 116,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/sophisticatedbackpacks-common.toml",
+            "MD5": "111ceedce24044b002f50efca5134d18",
+            "path": "config/sophisticatedbackpacks-common.toml"
+          }
+        },
+        {
+          "id": "config/sophisticatedcore-client.toml",
+          "name": "sophisticatedcore-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 467,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/sophisticatedcore-client.toml",
+            "MD5": "fd9e0fc36f2dafa293fce43f553687a8",
+            "path": "config/sophisticatedcore-client.toml"
+          }
+        },
+        {
+          "id": "config/sophisticatedcore-common.toml",
+          "name": "sophisticatedcore-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 12041,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/sophisticatedcore-common.toml",
+            "MD5": "566e748131348e2cb221385f0b9ec718",
+            "path": "config/sophisticatedcore-common.toml"
+          }
+        },
+        {
+          "id": "config/terrablender.toml",
+          "name": "terrablender.toml",
+          "type": "File",
+          "artifact": {
+            "size": 534,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/terrablender.toml",
+            "MD5": "97c4173d44eb6f2de04d25d42e84b39a",
+            "path": "config/terrablender.toml"
+          }
+        },
+        {
+          "id": "config/treechop-client.toml",
+          "name": "treechop-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1589,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/treechop-client.toml",
+            "MD5": "4173ddad654f70fd2ccd768904ccac18",
+            "path": "config/treechop-client.toml"
+          }
+        },
+        {
+          "id": "config/treechop-common.toml",
+          "name": "treechop-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 8674,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/treechop-common.toml",
+            "MD5": "5be9897d2167b44febb8f0a843836528",
+            "path": "config/treechop-common.toml"
+          }
+        },
+        {
+          "id": "config/waystones-common.toml",
+          "name": "waystones-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 6846,
+            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/waystones-common.toml",
+            "MD5": "6c660dd3c39fa04f11ebaf8fb6145354",
+            "path": "config/waystones-common.toml"
+          }
+        }
+      ]
+    }
+  ],
+  "delete": []
 }
