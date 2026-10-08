@@ -1,11 +1,11 @@
 {
-  "version": "0.2.2",
+  "version": "0.2.3",
   "servers": [
     {
       "id": "Legends_of_Medieval_Lite-1.20.1",
       "name": "LoM Lite",
-      "description": "LoM Lite 0.2.2 - Minecraft 1.20.1 / Forge 47.4.22",
-      "version": "0.2.2",
+      "description": "LoM Lite 0.2.3 - Minecraft 1.20.1 / Forge 47.4.22",
+      "version": "0.2.3",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "mainServer": false,
@@ -1857,6 +1857,24 @@
             "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt",
             "MD5": "47b939faafd9d76dbc01fec0e936bf93",
             "path": "shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt"
+          }
+        },
+        {
+          "id": "valhelsia_core-forge-1.20.1-1.1.2.jar",
+          "name": "Valhelsia Core",
+          "type": "File",
+          "artifact": {
+            "url": "https://cdn.modrinth.com/data/HsdNFinx/versions/eP3L8E7C/valhelsia_core-forge-1.20.1-1.1.2.jar",
+            "path": "mods/valhelsia_core-forge-1.20.1-1.1.2.jar"
+          }
+        },
+        {
+          "id": "valhelsia_structures-forge-1.20.1-1.1.2.jar",
+          "name": "Valhelsia Structures",
+          "type": "File",
+          "artifact": {
+            "url": "https://cdn.modrinth.com/data/T21szC0a/versions/9bGpLPl7/valhelsia_structures-forge-1.20.1-1.1.2.jar",
+            "path": "mods/valhelsia_structures-forge-1.20.1-1.1.2.jar"
           }
         }
       ]
