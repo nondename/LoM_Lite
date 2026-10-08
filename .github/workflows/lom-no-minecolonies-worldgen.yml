@@ -6,6 +6,8 @@ on:
       - 'addons/lom-no-minecolonies-worldgen/**'
       - '.github/workflows/lom-no-minecolonies-worldgen.yml'
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -32,6 +34,17 @@ jobs:
           for set in empty_colony barbarian_camp amazon_camp desert_camp ship; do
             jar tf build/libs/lom-no-minecolonies-worldgen-0.1.1.jar | grep "data/minecolonies/worldgen/structure_set/${set}.json"
           done
+      - name: Publish validated Forge JAR to Lite repository
+        shell: bash
+        working-directory: .
+        run: |
+          mkdir -p mods
+          cp addons/lom-no-minecolonies-worldgen/build/libs/lom-no-minecolonies-worldgen-0.1.1.jar mods/
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add mods/lom-no-minecolonies-worldgen-0.1.1.jar
+          git diff --cached --quiet || git commit -m "build(lite): publish tested MineColonies worldgen 0.1.1 jar"
+          git push origin HEAD:dev
       - uses: actions/upload-artifact@v4
         with:
           name: lom-no-minecolonies-worldgen-forge
