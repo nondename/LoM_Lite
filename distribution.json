@@ -1,11 +1,11 @@
 {
-  "version": "0.2.3",
+  "version": "0.2.4",
   "servers": [
     {
       "id": "Legends_of_Medieval_Lite-1.20.1",
       "name": "LoM Lite",
-      "description": "LoM Lite 0.2.3 - Minecraft 1.20.1 / Forge 47.4.22",
-      "version": "0.2.3",
+      "description": "LoM Lite 0.2.4 - Minecraft 1.20.1 / Forge 47.4.22",
+      "version": "0.2.4",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "mainServer": false,
@@ -1875,6 +1875,16 @@
           "artifact": {
             "url": "https://cdn.modrinth.com/data/T21szC0a/versions/9bGpLPl7/valhelsia_structures-forge-1.20.1-1.1.2.jar",
             "path": "mods/valhelsia_structures-forge-1.20.1-1.1.2.jar"
+          }
+        },
+        {
+          "id": "gravestone-forge-1.20.1-1.0.32.jar",
+          "name": "GraveStone Mod",
+          "type": "File",
+          "artifact": {
+            "size": 317000,
+            "url": "https://mediafilez.forgecdn.net/files/6740/170/gravestone-forge-1.20.1-1.0.32.jar",
+            "path": "mods/gravestone-forge-1.20.1-1.0.32.jar"
           }
         }
       ]
