@@ -1,11 +1,11 @@
 {
-  "version": "0.2.6",
+  "version": "0.2.7",
   "servers": [
     {
       "id": "Legends_of_Medieval_Lite-1.20.1",
       "name": "LoM Lite",
-      "description": "LoM Lite 0.2.6 - Minecraft 1.20.1 / Forge 47.4.22",
-      "version": "0.2.6",
+      "description": "LoM Lite 0.2.7 - Minecraft 1.20.1 / Forge 47.4.22",
+      "version": "0.2.7",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "mainServer": false,
@@ -1858,5 +1858,8 @@
       ]
     }
   ],
-  "delete": []
+  "delete": [
+    "mods/valhelsia_core-forge-1.20.1-1.1.2.jar",
+    "mods/valhelsia_structures-forge-1.20.1-1.1.2.jar"
+  ]
 }
