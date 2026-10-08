@@ -1,11 +1,11 @@
 {
-  "version": "0.2.4",
+  "version": "0.2.5",
   "servers": [
     {
       "id": "Legends_of_Medieval_Lite-1.20.1",
       "name": "LoM Lite",
-      "description": "LoM Lite 0.2.4 - Minecraft 1.20.1 / Forge 47.4.22",
-      "version": "0.2.4",
+      "description": "LoM Lite 0.2.5 - Minecraft 1.20.1 / Forge 47.4.22",
+      "version": "0.2.5",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "mainServer": false,
@@ -1884,6 +1884,15 @@
           "artifact": {
             "url": "https://mediafilez.forgecdn.net/files/6740/170/gravestone-forge-1.20.1-1.0.32.jar",
             "path": "mods/gravestone-forge-1.20.1-1.0.32.jar"
+          }
+        },
+        {
+          "id": "valhelsia_furniture-forge-1.20.1-1.1.3.jar",
+          "name": "Valhelsia Furniture",
+          "type": "File",
+          "artifact": {
+            "url": "https://mediafilez.forgecdn.net/files/5189/602/valhelsia_furniture-forge-1.20.1-1.1.3.jar",
+            "path": "mods/valhelsia_furniture-forge-1.20.1-1.1.3.jar"
           }
         }
       ]
