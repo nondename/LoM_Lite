@@ -1,11 +1,11 @@
 {
-  "version": "0.2.10",
+  "version": "0.2.11",
   "servers": [
     {
       "id": "Legends_of_Medieval_Lite-1.20.1",
       "name": "LoM Lite",
-      "description": "LoM Lite 0.2.10 - Minecraft 1.20.1 / Forge 47.4.22",
-      "version": "0.2.10",
+      "description": "LoM Lite 0.2.11 - Minecraft 1.20.1 / Forge 47.4.22",
+      "version": "0.2.11",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "mainServer": false,
@@ -2025,6 +2025,16 @@
             "path": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/warpednetherlands_colony.json",
             "size": 29,
             "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/warpednetherlands_colony.json"
+          }
+        },
+        {
+          "id": "YungsApi-1.20-Forge-4.0.6.jar",
+          "name": "YUNG's API 4.0.6 (Paxi dependency)",
+          "type": "File",
+          "artifact": {
+            "path": "mods/YungsApi-1.20-Forge-4.0.6.jar",
+            "size": 370524,
+            "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/PJOYAmAs/YungsApi-1.20-Forge-4.0.6.jar"
           }
         }
       ]
