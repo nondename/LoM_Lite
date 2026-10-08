@@ -1882,7 +1882,6 @@
           "name": "GraveStone Mod",
           "type": "File",
           "artifact": {
-            "size": 317000,
             "url": "https://mediafilez.forgecdn.net/files/6740/170/gravestone-forge-1.20.1-1.0.32.jar",
             "path": "mods/gravestone-forge-1.20.1-1.0.32.jar"
           }
