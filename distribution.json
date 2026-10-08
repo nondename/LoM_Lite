@@ -1,11 +1,11 @@
 {
-  "version": "0.2.4",
+  "version": "0.2.5",
   "servers": [
     {
       "id": "Legends_of_Medieval_Lite-1.20.1",
       "name": "LoM Lite",
-      "description": "LoM Lite 0.2.4 - Minecraft 1.20.1 / Forge 47.4.22",
-      "version": "0.2.4",
+      "description": "LoM Lite 0.2.5 - Minecraft 1.20.1 / Forge 47.4.22",
+      "version": "0.2.5",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "mainServer": false,
@@ -1873,6 +1873,136 @@
             "url": "https://cdn.modrinth.com/data/T21szC0a/versions/9bGpLPl7/valhelsia_structures-forge-1.20.1-1.1.2.jar",
             "SHA1": "60e859d58b6ee8db01ea7a08e0dd6cbad761befb",
             "path": "mods/valhelsia_structures-forge-1.20.1-1.1.2.jar"
+          }
+        },
+        {
+          "id": "config/paxi/datapacks/lom_no_valhelsia_structures/pack.mcmeta",
+          "name": "pack.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 122,
+            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_valhelsia_structures/pack.mcmeta",
+            "path": "config/paxi/datapacks/lom_no_valhelsia_structures/pack.mcmeta"
+          }
+        },
+        {
+          "id": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/big_tree.json",
+          "name": "big_tree.json",
+          "type": "File",
+          "artifact": {
+            "size": 29,
+            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/big_tree.json",
+            "path": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/big_tree.json"
+          }
+        },
+        {
+          "id": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/castle.json",
+          "name": "castle.json",
+          "type": "File",
+          "artifact": {
+            "size": 29,
+            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/castle.json",
+            "path": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/castle.json"
+          }
+        },
+        {
+          "id": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/castle_ruin.json",
+          "name": "castle_ruin.json",
+          "type": "File",
+          "artifact": {
+            "size": 29,
+            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/castle_ruin.json",
+            "path": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/castle_ruin.json"
+          }
+        },
+        {
+          "id": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/deep_spawner_room.json",
+          "name": "deep_spawner_room.json",
+          "type": "File",
+          "artifact": {
+            "size": 29,
+            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/deep_spawner_room.json",
+            "path": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/deep_spawner_room.json"
+          }
+        },
+        {
+          "id": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/desert_house_condition.json",
+          "name": "desert_house_condition.json",
+          "type": "File",
+          "artifact": {
+            "size": 29,
+            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/desert_house_condition.json",
+            "path": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/desert_house_condition.json"
+          }
+        },
+        {
+          "id": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/has_desert_house.json",
+          "name": "has_desert_house.json",
+          "type": "File",
+          "artifact": {
+            "size": 29,
+            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/has_desert_house.json",
+            "path": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/has_desert_house.json"
+          }
+        },
+        {
+          "id": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/has_forge.json",
+          "name": "has_forge.json",
+          "type": "File",
+          "artifact": {
+            "size": 29,
+            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/has_forge.json",
+            "path": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/has_forge.json"
+          }
+        },
+        {
+          "id": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/player_house.json",
+          "name": "player_house.json",
+          "type": "File",
+          "artifact": {
+            "size": 29,
+            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/player_house.json",
+            "path": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/player_house.json"
+          }
+        },
+        {
+          "id": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/spawner_dungeon.json",
+          "name": "spawner_dungeon.json",
+          "type": "File",
+          "artifact": {
+            "size": 29,
+            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/spawner_dungeon.json",
+            "path": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/spawner_dungeon.json"
+          }
+        },
+        {
+          "id": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/spawner_room.json",
+          "name": "spawner_room.json",
+          "type": "File",
+          "artifact": {
+            "size": 29,
+            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/spawner_room.json",
+            "path": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/spawner_room.json"
+          }
+        },
+        {
+          "id": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/tower_ruin.json",
+          "name": "tower_ruin.json",
+          "type": "File",
+          "artifact": {
+            "size": 29,
+            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/tower_ruin.json",
+            "path": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/tower_ruin.json"
+          }
+        },
+        {
+          "id": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/witch_hut.json",
+          "name": "witch_hut.json",
+          "type": "File",
+          "artifact": {
+            "size": 29,
+            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/witch_hut.json",
+            "path": "config/paxi/datapacks/lom_no_valhelsia_structures/data/valhelsia_structures/tags/worldgen/biome/has_structure/witch_hut.json"
           }
         }
       ]
