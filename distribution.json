@@ -1,11 +1,11 @@
 {
-  "version": "0.2.7",
+  "version": "0.2.9",
   "servers": [
     {
       "id": "Legends_of_Medieval_Lite-1.20.1",
       "name": "LoM Lite",
-      "description": "LoM Lite 0.2.7 - Minecraft 1.20.1 / Forge 47.4.22",
-      "version": "0.2.7",
+      "description": "LoM Lite 0.2.9 - Minecraft 1.20.1 / Forge 47.4.22",
+      "version": "0.2.9",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "mainServer": false,
@@ -1860,39 +1860,12 @@
           }
         },
         {
-          "id": "valhelsia_core-forge-1.20.1-1.1.2.jar",
-          "name": "Valhelsia Core",
-          "type": "File",
-          "artifact": {
-            "url": "https://cdn.modrinth.com/data/HsdNFinx/versions/eP3L8E7C/valhelsia_core-forge-1.20.1-1.1.2.jar",
-            "path": "mods/valhelsia_core-forge-1.20.1-1.1.2.jar"
-          }
-        },
-        {
-          "id": "valhelsia_structures-forge-1.20.1-1.1.2.jar",
-          "name": "Valhelsia Structures",
-          "type": "File",
-          "artifact": {
-            "url": "https://cdn.modrinth.com/data/T21szC0a/versions/9bGpLPl7/valhelsia_structures-forge-1.20.1-1.1.2.jar",
-            "path": "mods/valhelsia_structures-forge-1.20.1-1.1.2.jar"
-          }
-        },
-        {
           "id": "gravestone-forge-1.20.1-1.0.32.jar",
           "name": "GraveStone Mod",
           "type": "File",
           "artifact": {
             "url": "https://mediafilez.forgecdn.net/files/6740/170/gravestone-forge-1.20.1-1.0.32.jar",
             "path": "mods/gravestone-forge-1.20.1-1.0.32.jar"
-          }
-        },
-        {
-          "id": "valhelsia_furniture-forge-1.20.1-1.1.3.jar",
-          "name": "Valhelsia Furniture",
-          "type": "File",
-          "artifact": {
-            "url": "https://mediafilez.forgecdn.net/files/5189/602/valhelsia_furniture-forge-1.20.1-1.1.3.jar",
-            "path": "mods/valhelsia_furniture-forge-1.20.1-1.1.3.jar"
           }
         },
         {
@@ -1927,5 +1900,9 @@
       ]
     }
   ],
-  "delete": []
+  "delete": [
+    "mods/valhelsia_core-forge-1.20.1-1.1.2.jar",
+    "mods/valhelsia_structures-forge-1.20.1-1.1.2.jar",
+    "mods/valhelsia_furniture-forge-1.20.1-1.1.3.jar"
+  ]
 }
