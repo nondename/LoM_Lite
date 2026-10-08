@@ -1,11 +1,11 @@
 {
-  "version": "0.2.3",
+  "version": "0.2.4",
   "servers": [
     {
       "id": "Legends_of_Medieval_Lite-1.20.1",
       "name": "LoM Lite",
-      "description": "LoM Lite 0.2.3 - Minecraft 1.20.1 / Forge 47.4.22",
-      "version": "0.2.3",
+      "description": "LoM Lite 0.2.4 - Minecraft 1.20.1 / Forge 47.4.22",
+      "version": "0.2.4",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "mainServer": false,
@@ -1853,6 +1853,26 @@
             "size": 148,
             "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/worldgen/structure_set/empty_nether_colony.json",
             "path": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/worldgen/structure_set/empty_nether_colony.json"
+          }
+        },
+        {
+          "id": "valhelsia_core-forge-1.20.1-1.1.2.jar",
+          "name": "Valhelsia Core 1.1.2",
+          "type": "File",
+          "artifact": {
+            "url": "https://cdn.modrinth.com/data/HsdNFinx/versions/eP3L8E7C/valhelsia_core-forge-1.20.1-1.1.2.jar",
+            "SHA1": "5e88feef805d15ffbe3c0918f53d6ed213a7dc6a",
+            "path": "mods/valhelsia_core-forge-1.20.1-1.1.2.jar"
+          }
+        },
+        {
+          "id": "valhelsia_structures-forge-1.20.1-1.1.2.jar",
+          "name": "Valhelsia Structures 1.1.2",
+          "type": "File",
+          "artifact": {
+            "url": "https://cdn.modrinth.com/data/T21szC0a/versions/9bGpLPl7/valhelsia_structures-forge-1.20.1-1.1.2.jar",
+            "SHA1": "60e859d58b6ee8db01ea7a08e0dd6cbad761befb",
+            "path": "mods/valhelsia_structures-forge-1.20.1-1.1.2.jar"
           }
         }
       ]
