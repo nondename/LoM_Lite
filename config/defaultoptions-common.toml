@@ -1,0 +1,4 @@
+# Default resource packs for first run of LoM Lite.
+defaultDifficulty = "NORMAL"
+lockDifficulty = false
+defaultResourcePacks = ["file/Better Gravestones.zip"]
