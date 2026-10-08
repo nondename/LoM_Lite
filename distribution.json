@@ -1,11 +1,11 @@
 {
-  "version": "0.2.12",
+  "version": "0.2.13",
   "servers": [
     {
       "id": "Legends_of_Medieval_Lite-1.20.1",
       "name": "LoM Lite",
-      "description": "LoM Lite 0.2.12 - Minecraft 1.20.1 / Forge 47.4.22",
-      "version": "0.2.12",
+      "description": "LoM Lite 0.2.13 - Minecraft 1.20.1 / Forge 47.4.22",
+      "version": "0.2.13",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "mainServer": false,
@@ -1898,13 +1898,13 @@
           }
         },
         {
-          "id": "lom-no-minecolonies-worldgen-0.1.0.jar",
-          "name": "LoM - Disable MineColonies Natural Worldgen",
+          "id": "lom-no-minecolonies-worldgen-0.1.1.jar",
+          "name": "LoM - Disable All MineColonies Natural Structures",
           "type": "File",
           "artifact": {
-            "path": "mods/lom-no-minecolonies-worldgen-0.1.0.jar",
-            "size": 3243,
-            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/dev/mods/lom-no-minecolonies-worldgen-0.1.0.jar"
+            "path": "mods/lom-no-minecolonies-worldgen-0.1.1.jar",
+            "size": 4507,
+            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/dev/mods/lom-no-minecolonies-worldgen-0.1.1.jar"
           }
         }
       ]
@@ -1929,6 +1929,7 @@
     "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/medieval_spruce_colony.json",
     "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/shire_colony.json",
     "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/warpednetherlands_colony.json",
-    "mods/YungsApi-1.20-Forge-4.0.6.jar"
+    "mods/YungsApi-1.20-Forge-4.0.6.jar",
+    "mods/lom-no-minecolonies-worldgen-0.1.0.jar"
   ]
 }
