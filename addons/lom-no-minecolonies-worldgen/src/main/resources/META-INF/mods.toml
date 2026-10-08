@@ -3,7 +3,7 @@ loaderVersion="[47,)"
 license="MIT"
 [[mods]]
 modId="lom_no_minecolonies_worldgen"
-version="0.1.0"
+version="0.1.1"
 displayName="LoM - Disable MineColonies Worldgen"
 authors="LoM (based on Hamderber)"
 description='''Disables natural MineColonies abandoned settlement structure sets. Player-created colonies still work.'''
