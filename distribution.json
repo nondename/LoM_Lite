@@ -1,11 +1,11 @@
 {
-  "version": "0.2.11",
+  "version": "0.2.12",
   "servers": [
     {
       "id": "Legends_of_Medieval_Lite-1.20.1",
       "name": "LoM Lite",
-      "description": "LoM Lite 0.2.11 - Minecraft 1.20.1 / Forge 47.4.22",
-      "version": "0.2.11",
+      "description": "LoM Lite 0.2.12 - Minecraft 1.20.1 / Forge 47.4.22",
+      "version": "0.2.12",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "mainServer": false,
@@ -1898,143 +1898,13 @@
           }
         },
         {
-          "id": "Paxi-1.20-Forge-4.0.jar",
-          "name": "Paxi - Global Data Packs",
+          "id": "lom-no-minecolonies-worldgen-0.1.0.jar",
+          "name": "LoM - Disable MineColonies Natural Worldgen",
           "type": "File",
           "artifact": {
-            "size": 96892,
-            "url": "https://cdn.modrinth.com/data/CU0PAyzb/versions/C7buFh0l/Paxi-1.20-Forge-4.0.jar",
-            "path": "mods/Paxi-1.20-Forge-4.0.jar"
-          }
-        },
-        {
-          "id": "config/paxi/datapacks/lom_no_abandoned_colonies/pack.mcmeta",
-          "name": "pack.mcmeta",
-          "type": "File",
-          "artifact": {
-            "size": 126,
-            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_abandoned_colonies/pack.mcmeta",
-            "path": "config/paxi/datapacks/lom_no_abandoned_colonies/pack.mcmeta"
-          }
-        },
-        {
-          "id": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/asian_colony.json",
-          "name": "asian_colony.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/asian_colony.json",
-            "size": 29,
-            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/asian_colony.json"
-          }
-        },
-        {
-          "id": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/caledonia_colony.json",
-          "name": "caledonia_colony.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/caledonia_colony.json",
-            "size": 29,
-            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/caledonia_colony.json"
-          }
-        },
-        {
-          "id": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/desertoasis_colony.json",
-          "name": "desertoasis_colony.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/desertoasis_colony.json",
-            "size": 29,
-            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/desertoasis_colony.json"
-          }
-        },
-        {
-          "id": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/incan_colony.json",
-          "name": "incan_colony.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/incan_colony.json",
-            "size": 29,
-            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/incan_colony.json"
-          }
-        },
-        {
-          "id": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/lostmesacity_colony.json",
-          "name": "lostmesacity_colony.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/lostmesacity_colony.json",
-            "size": 29,
-            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/lostmesacity_colony.json"
-          }
-        },
-        {
-          "id": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/medieval_birch_colony.json",
-          "name": "medieval_birch_colony.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/medieval_birch_colony.json",
-            "size": 29,
-            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/medieval_birch_colony.json"
-          }
-        },
-        {
-          "id": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/medieval_dark_oak_colony.json",
-          "name": "medieval_dark_oak_colony.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/medieval_dark_oak_colony.json",
-            "size": 29,
-            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/medieval_dark_oak_colony.json"
-          }
-        },
-        {
-          "id": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/medieval_oak_colony.json",
-          "name": "medieval_oak_colony.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/medieval_oak_colony.json",
-            "size": 29,
-            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/medieval_oak_colony.json"
-          }
-        },
-        {
-          "id": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/medieval_spruce_colony.json",
-          "name": "medieval_spruce_colony.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/medieval_spruce_colony.json",
-            "size": 29,
-            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/medieval_spruce_colony.json"
-          }
-        },
-        {
-          "id": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/shire_colony.json",
-          "name": "shire_colony.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/shire_colony.json",
-            "size": 29,
-            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/shire_colony.json"
-          }
-        },
-        {
-          "id": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/warpednetherlands_colony.json",
-          "name": "warpednetherlands_colony.json",
-          "type": "File",
-          "artifact": {
-            "path": "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/warpednetherlands_colony.json",
-            "size": 29,
-            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/warpednetherlands_colony.json"
-          }
-        },
-        {
-          "id": "YungsApi-1.20-Forge-4.0.6.jar",
-          "name": "YUNG's API 4.0.6 (Paxi dependency)",
-          "type": "File",
-          "artifact": {
-            "path": "mods/YungsApi-1.20-Forge-4.0.6.jar",
-            "size": 370524,
-            "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/PJOYAmAs/YungsApi-1.20-Forge-4.0.6.jar"
+            "path": "mods/lom-no-minecolonies-worldgen-0.1.0.jar",
+            "size": 3243,
+            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/dev/mods/lom-no-minecolonies-worldgen-0.1.0.jar"
           }
         }
       ]
@@ -2045,6 +1915,20 @@
     "mods/valhelsia_structures-forge-1.20.1-1.1.2.jar",
     "mods/valhelsia_furniture-forge-1.20.1-1.1.3.jar",
     "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/worldgen/structure_set/empty_colony.json",
-    "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/worldgen/structure_set/empty_nether_colony.json"
+    "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/worldgen/structure_set/empty_nether_colony.json",
+    "mods/Paxi-1.20-Forge-4.0.jar",
+    "config/paxi/datapacks/lom_no_abandoned_colonies/pack.mcmeta",
+    "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/asian_colony.json",
+    "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/caledonia_colony.json",
+    "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/desertoasis_colony.json",
+    "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/incan_colony.json",
+    "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/lostmesacity_colony.json",
+    "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/medieval_birch_colony.json",
+    "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/medieval_dark_oak_colony.json",
+    "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/medieval_oak_colony.json",
+    "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/medieval_spruce_colony.json",
+    "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/shire_colony.json",
+    "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/tags/worldgen/biome/has_structure/warpednetherlands_colony.json",
+    "mods/YungsApi-1.20-Forge-4.0.6.jar"
   ]
 }
