@@ -1,11 +1,11 @@
 {
-  "version": "0.2.8",
+  "version": "0.2.9",
   "servers": [
     {
       "id": "Legends_of_Medieval_Lite-1.20.1",
       "name": "LoM Lite",
-      "description": "LoM Lite 0.2.8 - Minecraft 1.20.1 / Forge 47.4.22",
-      "version": "0.2.8",
+      "description": "LoM Lite 0.2.9 - Minecraft 1.20.1 / Forge 47.4.22",
+      "version": "0.2.9",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "mainServer": false,
@@ -408,14 +408,14 @@
           }
         },
         {
-          "id": "map_atlases-1.20-6.0.20.jar",
-          "name": "Map Atlases",
+          "id": "map_atlases-1.20-6.0.20-atlas-only.jar",
+          "name": "Map Atlases — Atlas Only",
           "type": "File",
           "artifact": {
-            "size": 751854,
-            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/map_atlases-1.20-6.0.20.jar",
-            "MD5": "12f65fced02df57bfe874dd92a3d0cff",
-            "path": "mods/map_atlases-1.20-6.0.20.jar"
+            "size": 758190,
+            "url": "https://raw.githubusercontent.com/nondename/LoM_Lite/main/map_atlases-1.20-6.0.20-atlas-only.jar",
+            "MD5": "ad10e4213b68d0b8b7d08a6bcb699af4",
+            "path": "mods/map_atlases-1.20-6.0.20-atlas-only.jar"
           }
         },
         {
@@ -1952,6 +1952,7 @@
     "mods/valhelsia_core-forge-1.20.1-1.1.2.jar",
     "mods/valhelsia_structures-forge-1.20.1-1.1.2.jar",
     "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/worldgen/structure_set/empty_colony.json",
-    "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/worldgen/structure_set/empty_nether_colony.json"
+    "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/worldgen/structure_set/empty_nether_colony.json",
+    "mods/map_atlases-1.20-6.0.20.jar"
   ]
 }
