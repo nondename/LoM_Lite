@@ -1,11 +1,11 @@
 {
-  "version": "0.2.9",
+  "version": "0.2.10",
   "servers": [
     {
       "id": "Legends_of_Medieval_Lite-1.20.1",
       "name": "LoM Lite",
-      "description": "LoM Lite 0.2.9 - Minecraft 1.20.1 / Forge 47.4.22",
-      "version": "0.2.9",
+      "description": "LoM Lite 0.2.10 - Minecraft 1.20.1 / Forge 47.4.22",
+      "version": "0.2.10",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "mainServer": false,
@@ -526,17 +526,6 @@
             "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/RegionsUnexploredForge-0.5.6%2B1.20.1.jar",
             "MD5": "82c3073f606044e7b56d432d324ca480",
             "path": "mods/RegionsUnexploredForge-0.5.6+1.20.1.jar"
-          }
-        },
-        {
-          "id": "relics-1.20.1-0.8.0.13.jar",
-          "name": "Relics",
-          "type": "File",
-          "artifact": {
-            "size": 1521089,
-            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/mods/relics-1.20.1-0.8.0.13.jar",
-            "MD5": "8e8a8beb1ac0776448dfbcec179734a1",
-            "path": "mods/relics-1.20.1-0.8.0.13.jar"
           }
         },
         {
@@ -1651,17 +1640,6 @@
           }
         },
         {
-          "id": "config/relics.yaml",
-          "name": "relics.yaml",
-          "type": "File",
-          "artifact": {
-            "size": 521,
-            "url": "https://raw.githubusercontent.com/nondename/Minecraft-Legends-of-Medieval/41dc176ce66b569e998e7741bdcdb8c783568ee4/config/relics.yaml",
-            "MD5": "731452ee31a5f7248545d5568a71c554",
-            "path": "config/relics.yaml"
-          }
-        },
-        {
           "id": "config/sereneseasons/fertility.toml",
           "name": "fertility.toml",
           "type": "File",
@@ -1953,6 +1931,8 @@
     "mods/valhelsia_structures-forge-1.20.1-1.1.2.jar",
     "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/worldgen/structure_set/empty_colony.json",
     "config/paxi/datapacks/lom_no_abandoned_colonies/data/minecolonies/worldgen/structure_set/empty_nether_colony.json",
-    "mods/map_atlases-1.20-6.0.20.jar"
+    "mods/map_atlases-1.20-6.0.20.jar",
+    "mods/relics-1.20.1-0.8.0.13.jar",
+    "config/relics.yaml"
   ]
 }
